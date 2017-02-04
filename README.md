@@ -1,2 +1,2 @@
 # GopherTortoiseDensity
-R Code for hierarchical modelling of Gopher Tortoise (Gopherus polyphemus) density based on LTDS surveys and burrow scoping. Additional files for our marking scheme for collaborators are also included.
+R Code for hierarchical modelling of Gopher Tortoise (Gopherus polyphemus) density based on LTDS surveys and burrow scoping. The three example datasets provided are from 2015-2016 surveys of the inland habitat at the John F. Kennedy Space Center, Florida, USA. Burrow occupancy data was taken from a larger dataset, and retained in order to demonstrate processing covariates in the data.
